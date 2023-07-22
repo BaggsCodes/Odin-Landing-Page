@@ -1,0 +1,5 @@
+2023-07-20 11:39:08.404 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/baggscodes/repos/odin-recipes/index.html/odin-recipes","scheme":"file"},"type":1,"exists":false}],"filesToDiff":[],"filesToMerge":[]}
+2023-07-20 11:39:12.953 [info] [perf] Render performance baseline is 164ms
+2023-07-20 11:39:43.106 [warning] [backup tracker] suspended, ignoring dirty change event untitled:/home/baggscodes/repos/odin-recipes/index.html/odin-recipes 
+2023-07-20 11:39:43.115 [warning] [backup tracker] suspended, ignoring unregister event untitled:/home/baggscodes/repos/odin-recipes/index.html/odin-recipes 
+2023-07-20 11:39:46.691 [info] [perf] Render performance baseline is 70ms

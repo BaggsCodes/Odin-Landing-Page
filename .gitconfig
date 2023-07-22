@@ -1,0 +1,12 @@
+[user]
+	name = Baggs Codes
+	email = BaggsCodes@gmail.com
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[pull]
+	rebase = false
+[core]
+	excludesfile = /home/baggscodes/.gitignore_global
+	editor = code --wait

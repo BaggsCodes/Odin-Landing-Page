@@ -1,0 +1,6 @@
+2023/07/21-23:03:47.762 888 Reusing MANIFEST /home/baggscodes/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/07/21-23:03:47.762 888 Recovering log #16
+2023/07/21-23:03:47.769 888 Reusing old log /home/baggscodes/.config/google-chrome/Default/Sync Data/LevelDB/000016.log 
+2023/07/21-23:29:39.960 887 Level-0 table #21: started
+2023/07/21-23:29:39.965 887 Level-0 table #21: 42701 bytes OK
+2023/07/21-23:29:39.966 887 Delete type=0 #16

@@ -1,0 +1,59 @@
+{
+   "checksum": "6a4b4607af8ee7172088507e7f733d1d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13326060954323227",
+            "date_last_used": "0",
+            "guid": "3e7c0e18-da8d-4572-a360-3cfc5da41b4c",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "FLARED DENIM 003 STONE WASH GREY – NO/FAITH STUDIOS",
+            "type": "url",
+            "url": "https://nofaithstudios.com/products/flared-003"
+         }, {
+            "date_added": "13334193175074113",
+            "date_last_used": "0",
+            "guid": "07f800b1-1346-46ae-8c26-9af3b2af4ef5",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Git cheatsheet",
+            "type": "url",
+            "url": "https://www.theodinproject.com/lessons/foundations-git-basics"
+         } ],
+         "date_added": "13334176187407029",
+         "date_last_used": "0",
+         "date_modified": "13334193175074113",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13334176187407030",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13334176187407031",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cu8BCswBCIiBAhLFARI8CAISOAoGCgJibRABEDMaEgkANkDXyQAGACEANkDXyQAGADIYChYIAhH+SHrnyQAGABgAIQAAAAAAAAAAIACSAX0KNAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJ7ph658kABgAR7ph658kABgApiZ5758kABgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkAy/rhyQAGABEAy/rhyQAGACkElHrnyQAGADCAluuPnpmAA7oBAggBEgAgASoYaUZFZmxBenN1b1NnNnBIMnJEZE1TUT09SAMS7AEIBxLnAQocZkVuNFNhNm9tekJTNDU2LzAxN01aT0E2YWlnPRJmWjpBRHF0QVp5UTFCZlNkVk82Kzd3K3hoVnNXMmphdi9QRlFlWFc2WVJnWnhFT3ozZ2V6RzNRYTdrRUtMOUZ1eFNDKzllbWF0ckxYOTZBV08xRVd0Y0gyWmdpbWNkRFpEdjdJdz09GAAgAygDMLa214ComYADOKOkitmWMUDgnIvZljFKHG5VTTdxTlVZQjhxUk1jZUdDdXlValhmSWFydz1aHyIduUs3bG1qVlJuNWJITzd6eU03NE8yVjZzUUoyTT1lOHtgGRLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWndZTzI0TkI2Y3dUelIyUGpDZ0ZaQ1ZuZFhyUXBoNXJYblBpWm4wL2tWc1hEdjNtYjByWmR3cDJ2QkRycG1BMWxyMmZJaFhmc0NqZGdZQTRyNzNQWlJYQ3RUcGlnPT0YACAAKAAwl6fs6OiYgAM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLrAQgFEuYBChw2anUwOTd1RGkwYzNjWC93VU5QMkpPTWZ1MUE9EmZaOkFEcXRBWnlRMUJmU2RWTzYrN3creGhWc1cyamEzeGRXcElZRDZQekNFWW5ybVJWb0tFV01sZTN2RUcrcFZiUkMrQ1A2d2pyYUNKVzk0bDE1LzVtUEtXQXoyWUNUUUJHUVFnPT0YACAAKAAwxdnQh9Gs/gI46PWqs/gwQOj1qrP4MEoccjBHRFhPTWNkcXhMdFFRci85TjJKdlY2SVBFPVoeIhxzTEJtN3ROZmRZSFc5SGowTjA5NjVIK3k2NXc9ZQAAAAASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp5azBPMkd4bjQ4NEgybHZDWXlkVVBwN3k4VEdYcnMrS0NrZi9vcUFRV1JDRUU3NnVmNit3Zlp3dVV1cWZXMmxVWWxvT2pCckZRYk9SZkxDSzFFV3Vlb2dNbUFHQT09GAAgACgAMJen7OjomIADOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp3bHhzTHR0NHBEaGJUbUVzTGZvNjQ0dW1BcWdKL0pPWW9EYWU2UEhvdWcwUU9qTWVIcU9VQkdkKzB5emlOR1pqTzJ4YVdVGAAgACgAMJen7OjomIADOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAwATgA",
+   "version": 1
+}

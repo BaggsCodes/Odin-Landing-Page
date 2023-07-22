@@ -1,0 +1,7 @@
+2023-07-20 21:42:26.016 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/baggscodes/odin-landing-page/index.html","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-07-20 21:42:31.096 [info] [perf] Render performance baseline is 149ms
+2023-07-20 21:42:46.992 [info] [perf] Render performance baseline is 183ms
+2023-07-20 22:58:05.834 [error] INVALID selection range, must contain the previous range: Error: INVALID selection range, must contain the previous range
+    at ee.provideSelectionRanges (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:59427)
+2023-07-20 22:58:29.352 [error] INVALID selection range, must contain the previous range: Error: INVALID selection range, must contain the previous range
+    at ee.provideSelectionRanges (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:59427)

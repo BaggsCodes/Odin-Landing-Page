@@ -1,0 +1,22 @@
+2023-07-20 11:39:07.243 [info] update#setState idle
+2023-07-20 11:39:37.288 [info] update#setState checking for updates
+2023-07-20 11:39:37.369 [info] update#setState idle
+2023-07-20 11:39:43.181 [info] Extension host with pid 2485 exited with code: 0, signal: unknown.
+2023-07-20 12:39:37.295 [info] update#setState checking for updates
+2023-07-20 12:39:37.439 [info] update#setState idle
+2023-07-20 13:39:37.297 [info] update#setState checking for updates
+2023-07-20 13:39:37.939 [info] update#setState idle
+2023-07-20 14:39:37.345 [info] update#setState checking for updates
+2023-07-20 14:39:37.483 [info] update#setState idle
+2023-07-20 15:15:07.535 [info] Extension host with pid 10402 exited with code: 0, signal: unknown.
+2023-07-20 15:15:41.891 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-07-20 15:15:41.892 [error] [UtilityProcess id: 3, type: fileWatcher, pid: 10494]: crashed with code 15 and reason 'killed'
+2023-07-20 15:15:41.903 [info] Extension host with pid 10511 exited with code: 0, signal: unknown.
+2023-07-20 15:17:15.983 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-07-20 15:17:15.983 [error] [UtilityProcess id: 4, type: fileWatcher, pid: 10669]: crashed with code 15 and reason 'killed'
+2023-07-20 15:17:16.025 [info] Extension host with pid 10686 exited with code: 0, signal: unknown.
+2023-07-20 15:39:37.347 [info] update#setState checking for updates
+2023-07-20 15:39:37.507 [info] update#setState idle
+2023-07-20 16:38:10.252 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-07-20 16:38:10.252 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 2600]: crashed with code 15 and reason 'killed'
+2023-07-20 16:38:10.289 [info] Extension host with pid 2612 exited with code: 0, signal: unknown.

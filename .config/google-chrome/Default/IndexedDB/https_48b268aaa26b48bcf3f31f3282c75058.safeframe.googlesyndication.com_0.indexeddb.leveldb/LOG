@@ -1,0 +1,6 @@
+2023/07/20-12:39:57.567 756 Creating DB /home/baggscodes/.config/google-chrome/Default/IndexedDB/https_48b268aaa26b48bcf3f31f3282c75058.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2023/07/20-12:39:57.571 756 Reusing MANIFEST /home/baggscodes/.config/google-chrome/Default/IndexedDB/https_48b268aaa26b48bcf3f31f3282c75058.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/20-12:40:01.608 757 Level-0 table #5: started
+2023/07/20-12:40:01.609 757 Level-0 table #5: 480 bytes OK
+2023/07/20-12:40:01.612 757 Delete type=0 #3
+2023/07/20-12:40:01.612 757 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

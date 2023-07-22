@@ -1,0 +1,3 @@
+2023-07-20 21:14:35.922 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/baggscodes/odin-landing-page/index.html","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-07-20 21:14:39.272 [info] [perf] Render performance baseline is 83ms
+2023-07-20 21:14:49.364 [info] [perf] Render performance baseline is 44ms

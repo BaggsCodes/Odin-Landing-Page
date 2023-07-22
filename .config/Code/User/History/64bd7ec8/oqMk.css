@@ -1,0 +1,144 @@
+/* Universal css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+/* nav spacing and background color*/
+nav {
+  height: 75px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0px 250px;
+}
+/* nav section color */
+.nav-web {
+  background-color: #1f2937;
+  color: white;
+}
+/*List style*/
+li,
+a {
+  list-style: none;
+  display: inline;
+  justify-content: center;
+  color: white;
+  text-decoration: none;
+}
+/*Logo css*/
+#logo {
+  flex: 1;
+  font-size: 24px;
+  font-weight: bold;
+}
+/*Website description and img css*/
+.website-disc {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 250px;
+  padding-bottom: 60px;
+}
+/*text in web-text div*/
+.web-text {
+  width: 475px;
+  padding: 20px;
+  font-size: 18px;
+}
+/*h2 text in web-text div*/
+.web-text h2 {
+  width: 400px;
+  font-size: 48px;
+}
+button{
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  background-color: rgb(30, 103, 199);
+  margin-top: 6px;
+  margin-left: 4px;
+}
+/*img in web-text div*/
+img {
+  height: 300px;
+  width: 600px;
+}
+.random {
+  height: 400px;
+}
+/*text in radom-txt div*/
+.random-info {
+  font-weight: bolder;
+  font-size: 36px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+/*empty divs*/
+.one {
+  border: #3882f6 solid 2px;
+  height: 120px;
+  width: 120px;
+  border-radius: 8px;
+}
+/*empty divs spacing*/
+.random-div {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-top: 50px;
+}
+/*text in radom-txt div*/
+.random-div-2 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+/*text in radom-txt div */
+.ran-txt {
+  height: 120px;
+  width: 120px;
+  border-radius: 8px;
+  font-size: 12px;
+  text-align: center;
+}
+.quote {
+  height: 350px;
+  background-color: rgb(182, 181, 181);
+  align-items: center;
+}
+/* color and spacing of quote*/
+.quote_text {
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+.call{
+  height: 350px;
+  
+}
+.action{
+  background-color: #0d53c5;
+  width: 50%;
+  margin: 100px auto;
+  height: 100px;
+  border-radius: 2px;
+  color: white;
+}
+
+.actiontxt{
+  padding-top: 20px;
+}
+
+.btwo{
+margin-left: 80%;
+margin-bottom:0% ;
+}

@@ -1,0 +1,4 @@
+2023-07-21 23:01:37.821 [info] [perf] Render performance baseline is 101ms
+2023-07-21 23:33:24.689 [error] [Extension Host] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/share/code/resources/app/out/bootstrap.js:1:419)
+    at process.emit (node:events:513:28)

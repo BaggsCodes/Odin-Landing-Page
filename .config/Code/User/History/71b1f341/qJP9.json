@@ -1,0 +1,10 @@
+{
+  "workbench.colorTheme": "Community Material Theme Palenight",
+  "workbench.iconTheme": "eq-material-theme-icons-palenight",
+  "editor.formatOnSave": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "liveServer.settings.wait": 1
+}

@@ -1,0 +1,7 @@
+{
+  "workbench.colorTheme": "Community Material Theme Palenight",
+  "workbench.iconTheme": "eq-material-theme-icons-palenight",
+  "editor.formatOnSave": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmDragAndDrop": false
+}

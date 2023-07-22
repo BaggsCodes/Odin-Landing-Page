@@ -1,0 +1,4 @@
+2023-07-20 15:14:53.368 [info] Log level: Info
+2023-07-20 15:14:53.368 [info] Validating found git in: "git"
+2023-07-20 15:14:53.368 [info] Using git "2.41.0" from "git"
+2023-07-20 15:15:01.745 [info] > git rev-parse --show-toplevel [5ms]

@@ -1,0 +1,2 @@
+{"timestamp":586233,"category":"perf","name":"page_load","extra":{"trr_domain":"mozilla.cloudflare-dns.com","load_type":"NORMAL","response_time":"471","load_time":"1641","http_ver":"1","fcp_time":"1188","js_exec_time":"149"}}
+{"timestamp":880317,"category":"perf","name":"page_load","extra":{"fcp_time":"1734","response_time":"735","same_origin_nav":"false","http_ver":"2","js_exec_time":"315","load_type":"STOP","load_time":"7497","trr_domain":"mozilla.cloudflare-dns.com"}}

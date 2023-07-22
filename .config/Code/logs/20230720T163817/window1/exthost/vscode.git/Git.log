@@ -1,0 +1,20 @@
+2023-07-20 16:38:22.059 [info] Log level: Info
+2023-07-20 16:38:22.059 [info] Validating found git in: "git"
+2023-07-20 16:38:22.059 [info] Using git "2.41.0" from "git"
+2023-07-20 16:38:22.059 [info] > git rev-parse --show-toplevel [20ms]
+2023-07-20 16:38:22.061 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-07-20 16:38:22.072 [info] Open repository: /home/baggscodes/repos/odin-recipes
+2023-07-20 16:38:22.093 [info] > git rev-parse --show-toplevel [13ms]
+2023-07-20 16:38:22.108 [info] > git rev-parse --show-toplevel [8ms]
+2023-07-20 16:38:22.115 [info] > git config --get commit.template [25ms]
+2023-07-20 16:38:22.124 [info] > git rev-parse --show-toplevel [10ms]
+2023-07-20 16:38:22.135 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2023-07-20 16:38:22.146 [info] > git rev-parse --show-toplevel [10ms]
+2023-07-20 16:38:22.158 [info] > git status -z -uall [14ms]
+2023-07-20 16:38:22.203 [info] > git config --get commit.template [14ms]
+2023-07-20 16:38:22.208 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2023-07-20 16:38:22.223 [info] > git status -z -uall [4ms]
+2023-07-20 16:38:23.148 [info] > git check-ignore -v -z --stdin [12ms]
+2023-07-20 16:38:24.723 [info] > git show --textconv :recipes/carne.html [21ms]
+2023-07-20 16:38:24.724 [info] > git ls-files --stage -- /home/baggscodes/repos/odin-recipes/recipes/carne.html [2ms]
+2023-07-20 16:38:24.749 [info] > git cat-file -s 659b862e80af7eecb686329cb2d54608508558e3 [7ms]

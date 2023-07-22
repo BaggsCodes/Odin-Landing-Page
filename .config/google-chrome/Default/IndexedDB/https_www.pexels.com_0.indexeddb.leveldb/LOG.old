@@ -1,0 +1,7 @@
+2023/07/20-13:38:52.778 756 Reusing MANIFEST /home/baggscodes/.config/google-chrome/Default/IndexedDB/https_www.pexels.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/20-13:38:52.778 756 Recovering log #3
+2023/07/20-13:38:52.778 756 Reusing old log /home/baggscodes/.config/google-chrome/Default/IndexedDB/https_www.pexels.com_0.indexeddb.leveldb/000003.log 
+2023/07/20-13:38:54.833 757 Level-0 table #5: started
+2023/07/20-13:38:54.837 757 Level-0 table #5: 4348 bytes OK
+2023/07/20-13:38:54.838 757 Delete type=0 #3
+2023/07/20-13:38:54.838 757 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

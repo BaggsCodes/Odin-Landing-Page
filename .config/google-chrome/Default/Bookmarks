@@ -1,0 +1,48 @@
+{
+   "checksum": "96e57185aed05a0aafabf0aecad40149",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13334193175074113",
+            "date_last_used": "0",
+            "guid": "07f800b1-1346-46ae-8c26-9af3b2af4ef5",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Git cheatsheet",
+            "type": "url",
+            "url": "https://www.theodinproject.com/lessons/foundations-git-basics"
+         } ],
+         "date_added": "13334176187407029",
+         "date_last_used": "0",
+         "date_modified": "13334193175074113",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13334176187407030",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13334176187407031",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cu8BCswBCIiBAhLFARI8CAISOAoGCgJibRABEDMaEgkANkDXyQAGACEANkDXyQAGADIYChYIAhH+SHrnyQAGABgAIQAAAAAAAAAAIACSAX0KNAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJ7ph658kABgAR7ph658kABgApiZ5758kABgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkAy/rhyQAGABEAy/rhyQAGACkElHrnyQAGADCAluuPnpmAA7oBAggBEgAgASoYaUZFZmxBenN1b1NnNnBIMnJEZE1TUT09SAMSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp3bHhzTHR0NHBEaGJUbUVzTGZvNjQ0dW1BcWdKL0pPWW9EYWU2UEhvdWcwUU9qTWVIcU9VQkdkKzB5emlOR1pqTzJ4YVdVGAAgACgAMJen7OjomIADOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp5azBPMkd4bjQ4NEgybHZDWXlkVVBwN3k4VEdYcnMrS0NrZi9vcUFRV1JDRUU3NnVmNit3Zlp3dVV1cWZXMmxVWWxvT2pCckZRYk9SZkxDSzFFV3Vlb2dNbUFHQT09GAAgACgAMJen7OjomIADOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp3WU8yNE5CNmN3VHpSMlBqQ2dGWkNWbmRYclFwaDVyWG5QaVpuMC9rVnNYRHYzbWIwclpkd3AydkJEcnBtQTFscjJmSWhYZnNDamRnWUE0cjczUFpSWEN0VHBpZz09GAAgACgAMJen7OjomIADOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS7AEIBxLnAQocZkVuNFNhNm9tekJTNDU2LzAxN01aT0E2YWlnPRJmWjpBRHF0QVp5UTFCZlNkVk82Kzd3K3hoVnNXMmphdi9QRlFlWFc2WVJnWnhFT3ozZ2V6RzNRYTdrRUtMOUZ1eFNDKzllbWF0ckxYOTZBV08xRVd0Y0gyWmdpbWNkRFpEdjdJdz09GAAgAygDMLa214ComYADOKOkitmWMUDgnIvZljFKHG5VTTdxTlVZQjhxUk1jZUdDdXlValhmSWFydz1aHyIduUs3bG1qVlJuNWJITzd6eU03NE8yVjZzUUoyTT1lOHtgGRLkARLhAQocNmp1MDk3dURpMGMzY1gvd1VOUDJKT01mdTFBPRJmWjpBRHF0QVp5UTFCZlNkVk82Kzd3K3hoVnNXMmphM3hkV3BJWUQ2UHpDRVlucm1SVm9LRVdNbGUzdkVHK3BWYlJDK0NQNndqcmFDSlc5NGwxNS81bVBLV0F6MllDVFFCR1FRZz09GAEgASgAMMXZ0IfRrP4COOj1qrP4MEDo9aqz+DBKHHIwR0RYT01jZHF4THRRUXIvOU4ySnZWNklQRT1aHiIcc0xCbTd0TmZkWUhXOUhqME4wOTY1SCt5NjV3PTABOAA=",
+   "version": 1
+}

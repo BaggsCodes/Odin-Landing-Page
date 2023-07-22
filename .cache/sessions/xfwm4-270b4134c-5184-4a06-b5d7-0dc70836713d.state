@@ -1,0 +1,22 @@
+[CLIENT] 0x3e002af
+  [CLIENT_LEADER] 0x3e00001
+  [RES_NAME] users-admin
+  [RES_CLASS] Users-admin
+  [WM_NAME] Groups settings
+  [WM_COMMAND] (1) "users-admin"
+  [GEOMETRY] (201,174,400,300)
+  [GEOMETRY-MAXIMIZED] (201,174,400,300)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x3e00007
+  [CLIENT_LEADER] 0x3e00001
+  [RES_NAME] users-admin
+  [RES_CLASS] Users-admin
+  [WM_NAME] Users Settings
+  [WM_COMMAND] (1) "users-admin"
+  [GEOMETRY] (75,100,650,400)
+  [GEOMETRY-MAXIMIZED] (75,100,650,400)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
